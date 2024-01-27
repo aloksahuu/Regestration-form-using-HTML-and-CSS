@@ -1,4 +1,4 @@
-# Regestration-form-using-HTML-and-CSS
+# Registration-form-using-HTML-and-CSS
 ### Design Choices:
 
 1. Background Image:
